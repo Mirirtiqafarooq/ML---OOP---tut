@@ -11,7 +11,7 @@ class Employee:
         self.Id = input()
         print('Enter Name')
         self.Name = input()
-        print('Enter Address')
+        print('Enter Address')   
         self.Address = input()
         print('Enter Salary')
         self.Salary = int(input())
